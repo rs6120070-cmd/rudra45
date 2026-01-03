@@ -386,6 +386,9 @@ html {
 
 /* Responsive Text & Bars */
 @media (max-width: 768px) {
+	section {
+		padding-top:60px;
+	}
   .skill-bar {
     height: 30px;
   }
@@ -1073,4 +1076,5 @@ body {
     padding: 30px 15px;
   }
 } */
+
 
