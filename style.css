@@ -386,9 +386,6 @@ html {
 
 /* Responsive Text & Bars */
 @media (max-width: 768px) {
-	section {
-		padding-top:60px;
-	}
   .skill-bar {
     height: 30px;
   }
@@ -400,10 +397,6 @@ html {
     gap: 10px;
   }
 }
-
-section {
-		padding-top:60px;
-	}
 /* projects-upgrade.css */
 
 /* SECTION BACKGROUND / LAYOUT */
@@ -825,7 +818,7 @@ section {
 @media (max-width: 600px)
 {
 	section {
-		padding-top: 150px!important;
+		padding-top: 100px!important;
 	}
 }
 
@@ -1087,6 +1080,7 @@ body {
     padding: 30px 15px;
   }
 } */
+
 
 
 
