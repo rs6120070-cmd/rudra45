@@ -822,6 +822,13 @@ section {
   }
 }
 
+@media (max-width: 600px)
+{
+	section {
+		padding-top: 150px!important;
+	}
+}
+
 section {
   width: 100%;
   min-height: 100vh;     
@@ -1080,6 +1087,7 @@ body {
     padding: 30px 15px;
   }
 } */
+
 
 
 
