@@ -1068,8 +1068,9 @@ body {
 }
 
 /* Mobile spacing fix */
-@media (max-width: 600px) {
+/* @media (max-width: 600px) {
   .footer {
     padding: 30px 15px;
   }
-}
+} */
+
