@@ -400,6 +400,10 @@ html {
     gap: 10px;
   }
 }
+
+section {
+		padding-top:60px;
+	}
 /* projects-upgrade.css */
 
 /* SECTION BACKGROUND / LAYOUT */
@@ -1076,5 +1080,6 @@ body {
     padding: 30px 15px;
   }
 } */
+
 
 
